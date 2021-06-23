@@ -20,4 +20,4 @@ examples :
 - python3 port_scanner.py 127.0.0.1 n
 
 
-any comment or suggestion to send on my Twitter is welcome.
+any comment or suggestion to send on my twitter is welcome.
