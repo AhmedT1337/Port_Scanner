@@ -13,8 +13,11 @@ how to use it :
 
 ports options :
 - n (used to scan all ports from 1 tp 65535)
-- - (used to scan range of ports example : python3 port_scanner.py 192.168.1.1 1-100)
+- "-" (used to scan range of ports example : python3 port_scanner.py 192.168.1.1 1-100)
 - , (used to scan a specific list of ports example : python3 port_scanner.py 192.168.1.1 21,22,443,80)
 
 examples :
 - python3 port_scanner.py 127.0.0.1 n
+
+
+any comment or suggestion to send on my Twitter is welcome.
