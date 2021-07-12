@@ -1,4 +1,4 @@
-rom sys import argv
+from sys import argv
 import socket
 
 s = socket.socket()
